@@ -40,17 +40,17 @@
     "url": "https://tusvml.github.io/blog",
     "icon": "https://favicons.githubusercontent.com/tusvml.github.io",
     "slug": "vml-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 9017,
-    "timeWeek": 2312,
-    "timeMonth": 668,
-    "timeYear": 442,
+    "time": 436,
+    "timeDay": 6049,
+    "timeWeek": 2067,
+    "timeMonth": 651,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   }
 ]
